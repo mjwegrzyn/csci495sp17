@@ -1,6 +1,6 @@
 <?php
 //Dr. French
 echo "Hello, World!\n";
-//Kevin Dragotta
-echo "Kevin Dragotta\n";
+//Michael Wegrzyn
+echo "Michael Wegrzyn\n";
 ?>
